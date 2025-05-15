@@ -72,7 +72,7 @@ You must implement the functionality of both files so the shell works as expecte
 
 \## Notes for Testing
 
-Your solution will be tested for:
+Your solution will be tested for;
 
 \- Correct behavior of all commands
 
